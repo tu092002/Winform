@@ -1,0 +1,10 @@
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\bin\Debug\QLBHTranThiThuThao.exe.config
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\bin\Debug\QLBHTranThiThuThao.exe
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\bin\Debug\QLBHTranThiThuThao.pdb
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.csproj.AssemblyReference.cache
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.Properties.Resources.resources
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.csproj.GenerateResource.cache
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.csproj.CoreCompileInputs.cache
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.exe
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.pdb
+D:\QLBHTranThiThuThao\QLBHTranThiThuThao\obj\Debug\QLBHTranThiThuThao.QuanLySanPham.resources
